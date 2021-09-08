@@ -22,8 +22,8 @@ Quick start guide
 Usage
 ========================
     Options:
-        original_tcs        original TCS algorithm (*Clement et al. 2002*)
-        modified_tcs        optimization of TCS implementated by PopART (*Leigh and Bryant, 2015*)
+        original_tcs        original TCS algorithm (Clement et al. 2002)
+        modified_tcs        optimization of TCS implementated by PopART (Leigh and Bryant, 2015)
         msn                 optimization of MSN implementated by PopART
         mjn                 optimization of MJN implementated by PopART
          
