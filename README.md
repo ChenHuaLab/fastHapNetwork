@@ -21,6 +21,8 @@ Quick start guide
 
 Usage
 ========================
+    fastHapNetwork [Options]
+    
     Options:
         original_tcs        original TCS algorithm (Clement et al. 2002)
         modified_tcs        optimization of TCS implementated by PopART (Leigh and Bryant, 2015)
