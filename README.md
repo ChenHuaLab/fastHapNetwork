@@ -5,9 +5,7 @@ a fast and scalable program for constructing haplotype network for large-sample 
 
 Description
 =========================
-* fastHapNetwork is an efficient and scalable program for constructing haplotype networks for large samples. <br>
-* FastHapNetwork's implementation of the minimum joint network (MJN) algorithm in the single-thread mode is __3000 times__ faster than PopART and __70 times__ faster than NETWORK. <br>
-* The implementation of the Templeton-Crandall-Sing (TCS) algorithm in the single-thread mode is __100 times__ faster than PopART, and __5,800 times__ faster than the TCS software.
+fastHapNetwork is a fast and scalable program for constructing haplotype networks for large samples. fastHapNetwork can implement the minimum joint network (MJN) and the Templeton-Crandall-Sing (TCS) algorithms. The implementation in single-thread mode is much faster than the existing softwares. Furthermore, fastHapNetwork enables multi-threaded mode with good scalability.
 
 
 Quick start guide
