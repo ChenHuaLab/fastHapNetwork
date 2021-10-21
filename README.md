@@ -50,7 +50,7 @@ Options
         -a    (int)is mark the sites which contains ambiguous base, 1:mask, 0:not(default:0)
         -m    (int)is merge intermediate vertex, 1:merge, 0:not:(default:0)
     output:
-        -o    output graph file
+        -o    output graph file (*.gml)
             
 
 ### modified_tcs
@@ -62,7 +62,7 @@ Options
     options:
         -t    (int)thread number(default:8)
     output:
-        -o    output graph file
+        -o    output graph file (*.gml)
             
             
 ### msn
@@ -74,7 +74,7 @@ Options
     options:
         -e    (int)epsilon(default:0)
     output:
-        -o    output graph file
+        -o    output graph file (*.gml)
             
             
 ### mjn
@@ -87,4 +87,4 @@ Options
         -t    (int)thread number(default:8)
         -e    (int)epsilon(default:0)
     output:
-        -o    output graph file
+        -o    output graph file (*.gml)
