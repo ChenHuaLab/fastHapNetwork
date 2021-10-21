@@ -13,11 +13,16 @@ Description
 
 Quick start guide
 ========================
+    For Linux:
     1. download the software and grant execution permissions
        chmod +x fastHapNetwork_linux
 
     2. run the test data (Example/Test1000.phy.gz) with mjn algorithm
-       ./fastHapNetwork_linux mjn -i Example/Test1000.phy.gz -t 8 -o Test1000.graph
+       ./fastHapNetwork_linux mjn -i Example/Test1000.phy.gz -t 8 -o Test1000.gml
+
+    For windows:
+    1. run in the CMD window
+        fastHapNetwork_win.exe mjn -i Example/Test1000.phy.gz -t 8 -o Test1000.gml
 
 
 Usage
