@@ -1,6 +1,7 @@
 fastHapNetwork
 =========================
-a fast and scalable program for constructing haplotype network for large-sample sequence data sets
+A fast and scalable program for constructing haplotype network for large-sample sequence data sets
+You can also get the source code of fastHapNetwork at http://chenlab.big.ac.cn/software/submitInfo.html.
 
 
 Description
